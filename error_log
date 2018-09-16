@@ -1,0 +1,1016 @@
+[30-May-2017 02:42:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 02:43:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 204
+[30-May-2017 02:43:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 204
+[30-May-2017 02:43:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[30-May-2017 02:43:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[30-May-2017 02:43:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[30-May-2017 02:43:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[30-May-2017 02:46:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 03:08:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 03:10:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 204
+[30-May-2017 03:10:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 204
+[30-May-2017 03:10:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 204
+[30-May-2017 03:10:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 204
+[30-May-2017 03:23:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 04:43:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 04:43:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[30-May-2017 04:43:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[30-May-2017 04:44:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[30-May-2017 04:44:08 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[30-May-2017 04:44:08 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[30-May-2017 04:44:08 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[30-May-2017 04:44:08 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[30-May-2017 04:44:08 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[30-May-2017 04:44:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[30-May-2017 04:44:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[30-May-2017 04:44:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[30-May-2017 04:45:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 05:16:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 05:26:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 05:27:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 05:28:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 05:28:35 UTC] PHP Notice:  Undefined index: codigo in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProveedor.php on line 4
+[30-May-2017 05:28:35 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProveedor.php on line 7
+[30-May-2017 05:29:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 05:30:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[30-May-2017 05:44:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[30-May-2017 05:44:21 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[30-May-2017 05:44:21 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[30-May-2017 05:44:21 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[30-May-2017 05:44:21 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[30-May-2017 05:44:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[30-May-2017 05:44:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[30-May-2017 05:44:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[30-May-2017 06:03:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 06:03:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 06:03:46 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 216
+[30-May-2017 06:03:46 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 217
+[30-May-2017 06:04:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 06:04:32 UTC] PHP Notice:  Undefined offset: 0 in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProducto.php on line 7
+[30-May-2017 06:04:32 UTC] PHP Notice:  Undefined offset: 0 in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProducto.php on line 9
+[30-May-2017 06:04:32 UTC] PHP Notice:  Undefined offset: 0 in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProducto.php on line 10
+[30-May-2017 06:11:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 06:11:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 06:11:39 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 219
+[30-May-2017 06:11:39 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 220
+[30-May-2017 06:28:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 06:51:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 06:51:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 06:51:33 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 216
+[30-May-2017 06:51:33 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 217
+[30-May-2017 06:52:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 06:52:32 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 216
+[30-May-2017 06:52:32 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 217
+[30-May-2017 06:55:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 06:55:34 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 216
+[30-May-2017 06:55:34 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 217
+[30-May-2017 07:05:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 15:59:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 204
+[30-May-2017 15:59:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 204
+[30-May-2017 15:59:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 204
+[30-May-2017 16:34:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 204
+[30-May-2017 16:34:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 204
+[30-May-2017 16:34:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 204
+[30-May-2017 16:57:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 16:57:41 UTC] PHP Notice:  Undefined index: Usuario in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/validar.php on line 6
+[30-May-2017 16:57:41 UTC] PHP Notice:  Undefined index: Password in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/validar.php on line 7
+[30-May-2017 16:57:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 16:57:58 UTC] PHP Notice:  Undefined index: Usuario in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/validar.php on line 6
+[30-May-2017 16:57:58 UTC] PHP Notice:  Undefined index: Password in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/validar.php on line 7
+[30-May-2017 16:58:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 16:58:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 16:58:20 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 219
+[30-May-2017 16:58:20 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 220
+[30-May-2017 16:58:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[30-May-2017 16:58:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[30-May-2017 16:58:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[30-May-2017 16:58:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[30-May-2017 16:59:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 16:59:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 16:59:26 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 219
+[30-May-2017 16:59:26 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 220
+[30-May-2017 16:59:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[30-May-2017 16:59:38 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[30-May-2017 16:59:38 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[30-May-2017 16:59:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[30-May-2017 17:00:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[30-May-2017 17:00:51 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[30-May-2017 17:00:51 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[30-May-2017 17:00:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[30-May-2017 17:00:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[30-May-2017 17:00:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[30-May-2017 17:00:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[30-May-2017 21:11:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 21:13:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 21:13:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[30-May-2017 21:21:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 21:21:22 UTC] PHP Notice:  Undefined offset: 0 in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProducto.php on line 7
+[30-May-2017 21:21:22 UTC] PHP Notice:  Undefined offset: 0 in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProducto.php on line 9
+[30-May-2017 21:21:22 UTC] PHP Notice:  Undefined offset: 0 in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProducto.php on line 10
+[30-May-2017 21:21:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 21:21:36 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 216
+[30-May-2017 21:21:36 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 217
+[30-May-2017 21:21:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 21:24:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 21:25:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 21:25:04 UTC] PHP Notice:  Undefined index: codigo in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProveedor.php on line 4
+[30-May-2017 21:25:04 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProveedor.php on line 7
+[30-May-2017 21:30:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[30-May-2017 21:30:27 UTC] PHP Notice:  Undefined index: codigo in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/IngresarCliente.php on line 4
+[31-May-2017 01:40:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 02:41:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 02:42:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:42:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:42:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:42:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:49:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:49:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:49:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:49:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:49:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 02:49:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 02:49:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 02:49:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 02:50:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:50:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:50:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:50:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:56:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:56:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:56:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:56:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 02:57:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[31-May-2017 02:57:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[31-May-2017 02:57:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[31-May-2017 02:57:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[31-May-2017 02:58:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 02:58:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 02:58:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 02:58:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 03:02:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 03:02:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 03:02:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 03:02:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 03:02:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 03:02:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 03:02:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 03:02:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 05:00:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 05:00:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 05:00:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 05:00:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 05:02:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 05:02:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 05:02:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 05:02:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 05:02:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 05:02:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 05:02:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 05:02:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 05:04:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[31-May-2017 05:04:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[31-May-2017 05:04:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[31-May-2017 05:04:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[31-May-2017 05:04:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[31-May-2017 05:04:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[31-May-2017 05:04:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[31-May-2017 05:04:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[31-May-2017 05:18:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 05:18:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[31-May-2017 05:22:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 05:22:55 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 05:22:55 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[31-May-2017 05:23:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 05:23:06 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 05:23:06 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[31-May-2017 05:23:06 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[31-May-2017 05:23:06 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[31-May-2017 05:23:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[31-May-2017 05:23:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 05:23:24 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 05:23:24 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[31-May-2017 05:23:24 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[31-May-2017 05:23:24 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[31-May-2017 05:23:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[31-May-2017 05:23:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 05:23:58 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 05:23:58 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 4
+[31-May-2017 05:24:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 05:24:12 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 05:24:12 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 4
+[31-May-2017 05:24:12 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 214
+[31-May-2017 05:24:12 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 214
+[31-May-2017 05:24:12 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 214
+[31-May-2017 05:24:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[31-May-2017 05:25:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[31-May-2017 05:25:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 2
+[31-May-2017 05:25:26 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 2
+[31-May-2017 05:25:26 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 3
+[31-May-2017 05:25:26 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 51
+[31-May-2017 05:25:26 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 51
+[31-May-2017 05:25:26 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 51
+[31-May-2017 05:25:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 55
+[31-May-2017 05:26:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 2
+[31-May-2017 05:26:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 2
+[31-May-2017 05:26:17 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 3
+[31-May-2017 05:26:17 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 51
+[31-May-2017 05:26:17 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 51
+[31-May-2017 05:26:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 51
+[31-May-2017 05:26:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 55
+[31-May-2017 06:06:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[31-May-2017 06:06:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[31-May-2017 06:06:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[31-May-2017 06:06:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[31-May-2017 06:06:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:06:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:06:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:06:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:07:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 168
+[31-May-2017 06:07:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 168
+[31-May-2017 06:07:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 168
+[31-May-2017 06:07:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 168
+[31-May-2017 06:09:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 168
+[31-May-2017 06:09:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 168
+[31-May-2017 06:09:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 168
+[31-May-2017 06:09:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 168
+[31-May-2017 06:09:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 168
+[31-May-2017 06:09:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 168
+[31-May-2017 06:09:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 168
+[31-May-2017 06:09:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 168
+[31-May-2017 06:09:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:09:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:09:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:09:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:12:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:12:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:12:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:12:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:13:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:13:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:13:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:13:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:14:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:14:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:14:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:14:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:15:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:15:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:15:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:15:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:15:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:15:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:15:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:15:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:15:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:15:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:15:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:15:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:19:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:19:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:19:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:19:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:19:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:19:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:21:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:21:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:21:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:21:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:21:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:21:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:22:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:22:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:22:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 06:22:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 06:22:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:22:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:23:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:23:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:23:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 06:23:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 06:23:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:23:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:32:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:32:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:33:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:33:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:34:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:34:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:34:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:34:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:37:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:37:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 06:52:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:52:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:53:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 06:53:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:34:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:34:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:37:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:37:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:37:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 14:37:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 14:38:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:38:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:41:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:41:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:41:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:41:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:42:05 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 14:42:05 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 14:46:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:46:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:47:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:47:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:47:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:47:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:52:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:52:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:54:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:54:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:58:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 14:58:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:00:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:00:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:01:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:01:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:06:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:06:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:06:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:06:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:09:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:09:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:10:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:10:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:16:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:16:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:17:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:17:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:17:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 15:17:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:17:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:17:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:17:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:18:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 15:18:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 15:19:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 15:19:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 15:19:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 15:19:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 15:19:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 15:19:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 15:22:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 15:23:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:23:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 15:38:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 15:56:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 15:56:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 15:56:59 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 216
+[31-May-2017 15:56:59 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 217
+[31-May-2017 16:10:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 16:10:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 16:10:34 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Proveedores.php on line 219
+[31-May-2017 16:10:34 UTC] PHP Notice:  Undefined index: nit in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Proveedores.php on line 220
+[31-May-2017 16:21:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 16:21:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 16:21:03 UTC] PHP Notice:  Undefined index: Nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Cliente.php on line 222
+[31-May-2017 16:21:03 UTC] PHP Notice:  Undefined index: Nit in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Cliente.php on line 223
+[31-May-2017 16:28:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 16:28:17 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Servicio.php on line 208
+[31-May-2017 16:36:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 16:36:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 16:36:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 16:37:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 16:37:57 UTC] PHP Notice:  Undefined index: Nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Cliente.php on line 222
+[31-May-2017 16:37:57 UTC] PHP Notice:  Undefined index: Nit in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Cliente.php on line 223
+[31-May-2017 16:38:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 16:38:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[31-May-2017 16:38:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[31-May-2017 16:38:29 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[31-May-2017 16:38:29 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[31-May-2017 16:38:29 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[31-May-2017 16:38:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[31-May-2017 16:38:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[31-May-2017 16:42:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 16:42:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 16:43:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 16:43:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 16:45:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 16:45:08 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 16:45:08 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[31-May-2017 16:45:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 16:45:14 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 16:45:14 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[31-May-2017 16:45:14 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[31-May-2017 16:45:14 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[31-May-2017 16:45:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[31-May-2017 16:45:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 16:45:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 16:45:42 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 4
+[31-May-2017 16:45:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 16:45:51 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 16:45:51 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 4
+[31-May-2017 16:45:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 214
+[31-May-2017 16:45:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 214
+[31-May-2017 16:45:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 214
+[31-May-2017 16:46:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 16:46:11 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 16:46:11 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 4
+[31-May-2017 16:46:11 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 214
+[31-May-2017 16:46:11 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 214
+[31-May-2017 16:46:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 214
+[31-May-2017 16:46:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 2
+[31-May-2017 16:46:27 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 2
+[31-May-2017 16:46:27 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 3
+[31-May-2017 16:46:28 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 49
+[31-May-2017 16:46:28 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 49
+[31-May-2017 16:46:28 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 49
+[31-May-2017 16:46:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 53
+[31-May-2017 16:46:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 16:46:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 16:59:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 16:59:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 16:59:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 17:02:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 17:02:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 17:03:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 17:03:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 17:03:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 17:03:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 17:13:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 17:13:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 17:13:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 17:20:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 17:20:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 17:21:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 17:21:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/com_usu.php on line 204
+[31-May-2017 17:21:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 17:21:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 17:28:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 17:28:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 17:28:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 17:28:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 17:28:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 17:29:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 17:29:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 17:30:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 17:30:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 17:30:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 17:30:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[31-May-2017 17:39:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 17:39:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 204
+[31-May-2017 17:52:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 17:52:25 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 17:52:25 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[31-May-2017 17:52:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[31-May-2017 17:53:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 17:53:03 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 17:53:03 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[31-May-2017 17:53:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_semanal.php on line 3
+[31-May-2017 17:53:18 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_semanal.php on line 3
+[31-May-2017 17:53:18 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_semanal.php on line 4
+[31-May-2017 17:53:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 17:53:31 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 17:53:31 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 4
+[31-May-2017 17:53:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 17:53:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 17:53:44 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[31-May-2017 17:55:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 17:55:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 17:55:04 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[31-May-2017 17:58:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 17:58:43 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 17:58:43 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[31-May-2017 17:59:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 17:59:21 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 17:59:21 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 4
+[31-May-2017 18:29:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 18:29:51 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[31-May-2017 18:29:51 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 4
+[31-May-2017 18:29:51 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 214
+[31-May-2017 18:29:51 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 214
+[31-May-2017 18:29:51 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 214
+[31-May-2017 18:30:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 2
+[31-May-2017 18:30:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 2
+[31-May-2017 18:30:04 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 3
+[31-May-2017 18:30:04 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 49
+[31-May-2017 18:30:04 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 49
+[31-May-2017 18:30:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 49
+[31-May-2017 18:30:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 53
+[31-May-2017 18:43:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[31-May-2017 18:43:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[31-May-2017 18:43:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_mensual.php on line 3
+[31-May-2017 18:43:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_mensual.php on line 3
+[31-May-2017 18:43:17 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_mensual.php on line 4
+[31-May-2017 18:43:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_semanal.php on line 3
+[31-May-2017 18:43:24 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_semanal.php on line 3
+[31-May-2017 18:43:24 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_semanal.php on line 4
+[31-May-2017 18:43:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[31-May-2017 18:52:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[31-May-2017 18:52:34 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[31-May-2017 18:52:34 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[31-May-2017 18:52:34 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[31-May-2017 18:52:34 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[31-May-2017 18:52:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[31-May-2017 18:52:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[31-May-2017 19:05:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[31-May-2017 19:05:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[31-May-2017 19:05:42 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[31-May-2017 19:05:42 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[31-May-2017 19:05:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[31-May-2017 19:05:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[31-May-2017 19:05:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[31-May-2017 19:05:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[31-May-2017 19:05:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[31-May-2017 19:05:42 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[31-May-2017 19:05:42 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[31-May-2017 19:05:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[31-May-2017 19:05:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[31-May-2017 19:05:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[31-May-2017 19:08:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_cliente.php on line 4
+[31-May-2017 19:08:46 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_cliente.php on line 4
+[31-May-2017 19:08:46 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_cliente.php on line 5
+[31-May-2017 19:08:46 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_cliente.php on line 42
+[31-May-2017 19:08:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_cliente.php on line 42
+[31-May-2017 19:08:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_cliente.php on line 42
+[31-May-2017 19:08:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_cliente.php on line 43
+[31-May-2017 19:09:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 19:09:28 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[31-May-2017 19:09:28 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[31-May-2017 19:09:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_diaria.php on line 2
+[31-May-2017 19:09:31 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_diaria.php on line 2
+[31-May-2017 19:09:31 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_diaria.php on line 3
+[31-May-2017 19:09:31 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_diaria.php on line 49
+[31-May-2017 19:09:31 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_diaria.php on line 49
+[31-May-2017 19:09:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_diaria.php on line 49
+[31-May-2017 19:09:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_diaria.php on line 53
+[01-Jun-2017 02:28:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 02:28:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 02:29:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 02:29:00 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 02:29:00 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[01-Jun-2017 02:29:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 02:29:07 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 02:29:07 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[01-Jun-2017 02:29:07 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 02:29:07 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 02:29:07 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 02:29:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 02:29:23 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 02:29:23 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[01-Jun-2017 02:29:23 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 02:29:23 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 02:29:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 03:19:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 03:19:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 03:20:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 03:20:02 UTC] PHP Notice:  Undefined index: Usuario in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/validar.php on line 6
+[01-Jun-2017 03:20:02 UTC] PHP Notice:  Undefined index: Password in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/validar.php on line 7
+[01-Jun-2017 03:20:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 03:20:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 03:21:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 03:21:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 03:21:42 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 219
+[01-Jun-2017 03:21:42 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 220
+[01-Jun-2017 03:21:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 03:21:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 03:25:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 03:25:02 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 03:25:02 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[01-Jun-2017 03:25:02 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 03:25:02 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 03:25:02 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 03:26:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 03:26:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 03:26:30 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[01-Jun-2017 03:26:30 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 03:26:30 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 03:26:30 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 03:26:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 03:26:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 03:26:47 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 03:26:47 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[01-Jun-2017 03:26:47 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 03:26:47 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 03:26:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 03:26:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[01-Jun-2017 03:26:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 03:31:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_empleado.php on line 4
+[01-Jun-2017 03:31:06 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_empleado.php on line 4
+[01-Jun-2017 03:31:06 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_empleado.php on line 5
+[01-Jun-2017 03:31:06 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_empleado.php on line 41
+[01-Jun-2017 03:31:06 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_empleado.php on line 41
+[01-Jun-2017 03:31:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_empleado.php on line 41
+[01-Jun-2017 03:31:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_empleado.php on line 42
+[01-Jun-2017 04:25:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 04:25:18 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 04:25:18 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[01-Jun-2017 04:25:18 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 04:25:18 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 04:25:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 04:25:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[01-Jun-2017 04:25:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 04:25:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 04:25:28 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 04:25:28 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[01-Jun-2017 04:25:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 04:25:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 04:25:32 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[01-Jun-2017 04:25:32 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 04:25:32 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 04:25:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 04:57:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 04:57:48 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 04:57:48 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[01-Jun-2017 04:57:48 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 04:57:48 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 04:57:48 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 15:29:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 15:29:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 15:29:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 15:29:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 15:29:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 15:58:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 15:58:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 15:58:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 15:58:53 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 15:58:53 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[01-Jun-2017 15:59:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 15:59:03 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 15:59:03 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 4
+[01-Jun-2017 15:59:03 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 15:59:03 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 15:59:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 210
+[01-Jun-2017 17:52:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 17:52:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 17:52:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 17:53:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_semanal.php on line 3
+[01-Jun-2017 17:53:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 17:58:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 17:58:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 17:58:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 17:58:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 17:58:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 17:59:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 17:59:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_diaria.php on line 2
+[01-Jun-2017 17:59:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_semanal.php on line 3
+[01-Jun-2017 17:59:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_semanal.php on line 3
+[01-Jun-2017 18:00:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_semanal.php on line 2
+[01-Jun-2017 18:00:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_semanal.php on line 2
+[01-Jun-2017 18:00:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_semanal.php on line 2
+[01-Jun-2017 18:00:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[01-Jun-2017 18:00:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[01-Jun-2017 18:01:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaG_mensual.php on line 2
+[01-Jun-2017 18:01:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 18:01:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_empleado.php on line 4
+[01-Jun-2017 18:01:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReporteExcel_empleado.php on line 7
+[01-Jun-2017 18:02:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:02:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 18:02:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 18:02:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 18:03:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_diaria.php on line 2
+[01-Jun-2017 18:03:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 18:03:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_semanal.php on line 3
+[01-Jun-2017 18:03:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_semanal.php on line 3
+[01-Jun-2017 18:03:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_semanal.php on line 3
+[01-Jun-2017 18:03:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_semanal.php on line 3
+[01-Jun-2017 18:04:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentasE_semanal.php on line 2
+[01-Jun-2017 18:04:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_mensual.php on line 3
+[01-Jun-2017 18:05:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:05:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_mensual.php on line 2
+[01-Jun-2017 18:05:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 18:05:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:05:47 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:05:47 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[01-Jun-2017 18:05:47 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:05:47 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:05:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:05:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[01-Jun-2017 18:05:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:05:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:05:57 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:05:57 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[01-Jun-2017 18:05:57 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:05:57 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:05:57 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:05:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[01-Jun-2017 18:07:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:07:15 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:07:15 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[01-Jun-2017 18:07:15 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:07:15 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:07:15 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:07:15 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[01-Jun-2017 18:07:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:08:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:08:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:08:06 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:08:06 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[01-Jun-2017 18:08:06 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:08:06 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:08:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:08:06 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[01-Jun-2017 18:10:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 18:12:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:12:50 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:12:50 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[01-Jun-2017 18:12:50 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:12:50 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:12:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:12:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[01-Jun-2017 18:12:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_cliente.php on line 4
+[01-Jun-2017 18:13:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReporteExcel_cliente.php on line 7
+[01-Jun-2017 18:17:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:17:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:18:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:18:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:18:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 18:19:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 18:20:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:20:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 18:21:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:21:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:21:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:21:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:21:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:21:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:21:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:21:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:21:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[01-Jun-2017 18:21:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[01-Jun-2017 18:21:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[01-Jun-2017 18:21:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[01-Jun-2017 18:21:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[01-Jun-2017 18:21:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[01-Jun-2017 18:21:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[01-Jun-2017 18:21:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[01-Jun-2017 18:21:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[01-Jun-2017 18:21:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[01-Jun-2017 18:21:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[01-Jun-2017 18:21:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/compras.php on line 204
+[01-Jun-2017 18:22:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:22:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 18:22:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:22:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:22:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:22:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:22:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:22:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:27:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:27:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:27:42 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[01-Jun-2017 18:27:42 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:27:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:27:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:27:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[01-Jun-2017 18:37:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:37:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:37:29 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[01-Jun-2017 18:37:29 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:37:29 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:37:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:37:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[01-Jun-2017 18:37:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:37:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:37:32 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[01-Jun-2017 18:37:32 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:37:32 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:37:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:37:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[01-Jun-2017 18:37:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:37:34 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 18:37:34 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 4
+[01-Jun-2017 18:37:34 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:37:34 UTC] PHP Warning:  mysql_query(): Access denied for user 'alumnosumg'@'localhost' (using password: NO) in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:37:34 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 187
+[01-Jun-2017 18:37:34 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 188
+[01-Jun-2017 18:37:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 18:51:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:51:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:51:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:51:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:51:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:51:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:51:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:51:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:51:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:51:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:51:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 18:51:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 206
+[01-Jun-2017 19:04:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 19:04:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 19:04:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 19:04:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/movimientos.php on line 3
+[01-Jun-2017 19:04:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/productos.php on line 3
+[01-Jun-2017 19:04:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/movimientos.php on line 3
+[01-Jun-2017 19:04:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/movimientos.php on line 3
+[01-Jun-2017 19:05:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_Movimiento.php on line 2
+[01-Jun-2017 19:05:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_Movimiento.php on line 2
+[01-Jun-2017 19:06:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_Movimiento.php on line 2
+[01-Jun-2017 19:07:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_Movimiento.php on line 2
+[01-Jun-2017 20:03:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:03:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:03:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:03:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:08:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 20:08:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 20:08:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 20:08:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 20:08:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 20:08:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 20:08:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[01-Jun-2017 20:08:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:08:23 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 219
+[01-Jun-2017 20:08:23 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 220
+[01-Jun-2017 20:08:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:08:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 20:08:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 20:09:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:09:23 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 219
+[01-Jun-2017 20:09:23 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 220
+[01-Jun-2017 20:09:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:09:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:09:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:10:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:10:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:10:04 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 219
+[01-Jun-2017 20:10:04 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 220
+[01-Jun-2017 20:10:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:10:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:11:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:11:26 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 216
+[01-Jun-2017 20:11:26 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 217
+[01-Jun-2017 20:11:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:11:28 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 216
+[01-Jun-2017 20:11:28 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 217
+[01-Jun-2017 20:11:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:11:29 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 216
+[01-Jun-2017 20:11:29 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 217
+[01-Jun-2017 20:13:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:13:41 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 216
+[01-Jun-2017 20:13:41 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 217
+[01-Jun-2017 20:14:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:14:57 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 216
+[01-Jun-2017 20:14:57 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 217
+[01-Jun-2017 20:15:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:15:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:15:13 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 219
+[01-Jun-2017 20:15:13 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 220
+[01-Jun-2017 20:15:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:15:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:15:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 20:15:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:15:41 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 219
+[01-Jun-2017 20:15:41 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 220
+[01-Jun-2017 20:16:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:16:15 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 219
+[01-Jun-2017 20:16:15 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 220
+[01-Jun-2017 20:18:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:18:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:18:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:18:51 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Proveedores.php on line 219
+[01-Jun-2017 20:18:51 UTC] PHP Notice:  Undefined index: nit in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Proveedores.php on line 220
+[01-Jun-2017 20:18:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:18:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:19:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:19:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 20:19:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[01-Jun-2017 20:19:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 20:19:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:19:50 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 216
+[01-Jun-2017 20:19:50 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 217
+[01-Jun-2017 20:19:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:19:55 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Proveedores.php on line 219
+[01-Jun-2017 20:19:55 UTC] PHP Notice:  Undefined index: nit in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Proveedores.php on line 220
+[01-Jun-2017 20:19:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:20:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:20:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:20:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/productos.php on line 3
+[01-Jun-2017 20:20:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 20:20:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 20:21:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 20:21:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_dia.php on line 3
+[01-Jun-2017 20:21:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaG_mensual.php on line 3
+[01-Jun-2017 20:21:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 20:21:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_semanal.php on line 3
+[01-Jun-2017 20:21:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_mensual.php on line 3
+[01-Jun-2017 20:21:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 20:21:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 20:21:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[01-Jun-2017 20:21:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 20:22:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 20:22:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 20:22:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 20:22:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 20:22:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 20:22:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 20:22:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_mensual.php on line 3
+[01-Jun-2017 20:22:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_mensual.php on line 3
+[01-Jun-2017 20:23:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ReportePdf_VentaE_mensual.php on line 2
+[01-Jun-2017 20:28:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:29:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[01-Jun-2017 20:29:20 UTC] PHP Notice:  Undefined offset: 0 in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProducto.php on line 7
+[01-Jun-2017 20:29:20 UTC] PHP Notice:  Undefined offset: 0 in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProducto.php on line 9
+[01-Jun-2017 20:29:20 UTC] PHP Notice:  Undefined offset: 0 in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/InsertarProducto.php on line 10
+[01-Jun-2017 20:29:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 20:29:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 20:29:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 20:29:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 20:29:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 20:29:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 206
+[01-Jun-2017 20:31:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 20:31:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[01-Jun-2017 20:31:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/VentaE_dia.php on line 3
+[02-Jun-2017 01:32:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 01:32:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 01:32:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 148
+[02-Jun-2017 01:32:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 148
+[02-Jun-2017 01:32:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 148
+[02-Jun-2017 01:32:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 148
+[02-Jun-2017 01:32:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 148
+[02-Jun-2017 01:32:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/serv_usu.php on line 148
+[02-Jun-2017 01:32:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 150
+[02-Jun-2017 01:32:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 150
+[02-Jun-2017 01:32:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 150
+[02-Jun-2017 01:32:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 150
+[02-Jun-2017 01:32:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 150
+[02-Jun-2017 01:32:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 150
+[02-Jun-2017 01:32:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 150
+[02-Jun-2017 01:32:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 150
+[02-Jun-2017 01:32:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 150
+[02-Jun-2017 01:32:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 150
+[02-Jun-2017 01:32:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 150
+[02-Jun-2017 01:32:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ven_usu.php on line 150
+[02-Jun-2017 01:32:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 01:32:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 01:32:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 01:32:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 01:32:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 01:32:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 01:32:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 05:11:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 05:11:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 05:40:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 05:51:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 05:51:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 06:48:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 06:49:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 06:49:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 06:49:15 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 223
+[02-Jun-2017 06:49:15 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 224
+[02-Jun-2017 06:49:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 06:49:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 06:53:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/empleado.php on line 3
+[02-Jun-2017 06:53:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 06:53:51 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 223
+[02-Jun-2017 06:53:51 UTC] PHP Notice:  Undefined index: dpi in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento.php on line 224
+[02-Jun-2017 06:53:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 06:54:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 06:59:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 06:59:43 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 220
+[02-Jun-2017 06:59:43 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 221
+[02-Jun-2017 07:00:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 07:00:08 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 220
+[02-Jun-2017 07:00:08 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 221
+[02-Jun-2017 07:06:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 07:06:00 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 220
+[02-Jun-2017 07:06:00 UTC] PHP Notice:  Undefined index: serie in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Producto.php on line 221
+[02-Jun-2017 07:17:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 07:17:29 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Proveedores.php on line 223
+[02-Jun-2017 07:17:29 UTC] PHP Notice:  Undefined index: nit in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Proveedores.php on line 224
+[02-Jun-2017 07:28:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 07:28:31 UTC] PHP Notice:  Undefined index: Nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Cliente.php on line 226
+[02-Jun-2017 07:28:31 UTC] PHP Notice:  Undefined index: Nit in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Cliente.php on line 227
+[02-Jun-2017 07:36:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 07:36:32 UTC] PHP Notice:  Undefined index: nombre in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/Mantenimiento_Servicio.php on line 211
+[02-Jun-2017 07:45:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:45:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:45:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:45:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:45:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:45:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:50:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:50:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:50:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:50:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:50:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:50:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:51:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/conexion.php on line 8
+[02-Jun-2017 07:51:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:51:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:51:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:51:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:51:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:51:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:51:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/clientes.php on line 3
+[02-Jun-2017 07:51:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:51:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:51:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:51:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:51:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:51:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:59:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:59:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:59:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:59:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:59:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
+[02-Jun-2017 07:59:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/alumnosumg/public_html/antenas/ProyectoAntenasv1/ventas.php on line 216
