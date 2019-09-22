@@ -55,59 +55,72 @@ if($now > $_SESSION['expire'])
 <!--inico de menu-->
 <div id="sidebar"><a href="#" class="visible-phone"><i class="icon icon-home"></i>Menú</a>
   <ul>
-    <li class="active"><a href="inicio.php"><i class="icon icon-home"></i> <span>Inicio</span></a> </li>
+    <li class="active"><a href="inicio.php"><i class="icon icon-home"></i> <span>Inicio</span></a> </li> <!--Pestania Menu -->
 
+    <!--Pestania Productos Menus-->
+    <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>Productos</span> <span class="label label-important"></span></a>
+    <ul>
+    <li><a href="">Lista Productos</a></li>
+    <li><a href="Producto.php">Nuevo Producto</a></li>
+    <li><a href="Mantenimiento_Producto.php">Mantenimiento</a></li>
+    </ul>
+    </li>
+
+    <!--Pestania Ventas Menu -->
+    <li class="submenu"> <a href="#"><i class="icon-shopping-cart"></i> <span>Ventas</span> <span class="label label-important"></span></a>
+    <ul>
+    <li><a href="ventas.php"><i class="icon-shopping-cart"></i>Nueva Venta</a></li>
+    <li><a href=""><i class="icon-shopping-cart"></i>Factura de Ventas</a></li>
+    </ul>
+    </li>
+
+    <!--Pestania Clientes Menu -->
+    <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>Clientes</span> <span class="label label-important"></span></a>
+    <ul>
+    <li><a href="">Lista de Clientes</a></li>
+    <li><a href="Cliente.php">Nuevo Cliente</a></li>
+    <li><a href="Mantenimiento_Cliente.php">Mantenimiento Cliente</a></li>
+    </ul>
+    </li>
+
+    <!--Pestania Compras Menu -->
+    <li class="submenu"> <a href="#"><i class="icon-shopping-cart"></i> <span>Compras</span> <span class="label label-important"></span></a>
+    <ul>
+    <li><a href="compras.php"><i class="icon-shopping-cart"></i>Nueva Compra</a></li>
+    <li><a href="Ingresoproducto.php"><i class="icon-shopping-cart"></i>Ingresar Producto</a></li>
+    <li><a href=""><i class="icon-shopping-cart"></i>Facturas Compras</a></li>
+    </ul>
+    </li>
+
+    <!--Pestania Usuarios Menu -->
     <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>Usuario</span> <span class="label label-important"></span></a>
-      <ul>
-        <li><a href="form-common.php">Nuevo</a></li>
-        <li><a href="Mantenimiento.php">Mantenimiento</a></li>
-      </ul>
+    <ul>
+    <li><a href="">Lista de Usuarios</a></li>
+    <li><a href="form-common.php">Nuevo Usuario</a></li>
+    <li><a href="Mantenimiento.php">Mantenimiento Usuario</a></li>
+    </ul>
     </li>
 
-    <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>Producto</span> <span class="label label-important"></span></a>
-      <ul>
-        <li><a href="Producto.php">Nuevo</a></li>
-        <li><a href="Mantenimiento_Producto.php">Mantenimiento</a></li>
-      </ul>
-    </li>
+    <!--Pestania Proveedores Menu -->
 
     <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>Proveedores</span> <span class="label label-important"></span></a>
-      <ul>
-        <li><a href="Proveedores.php">Nuevo</a></li>
-        <li><a href="Mantenimiento_Proveedores.php">Mantenimiento</a></li>
-      </ul>
+    <ul>
+    <li><a href="">Lista Proveedores</a></li>
+    <li><a href="Proveedores.php">Nuevo Proveedor</a></li>
+    <li><a href="Mantenimiento_Proveedores.php">Mantenimiento</a></li>
+    </ul>
     </li>
 
-    <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>Cliente</span> <span class="label label-important"></span></a>
-      <ul>
-        <li><a href="Cliente.php">Nuevo</a></li>
-        <li><a href="Mantenimiento_Cliente.php">Mantenimiento</a></li>
-      </ul>
-    </li>
-
+    <!--Pestania Kardex Menu -->
+    <li class="sumbmenu "><a href="movimientos.php"><i class="icon-folder-open"></i> <span>Kardex-Movimientos</span></a> </li>
+    <!--Pestania Reporte Productos Menu -->
+    <li class="sumbmenu "><a href="productos.php"><i class="icon-folder-open"></i> <span>Reporte Productos</span></a> </li>
       <!--  <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>Servicio</span> <span class="label label-important"></span></a>
       <ul>
         <li><a href="Servicio.php">Nuevo</a></li>
         <li><a href="Mantenimiento_Servicio.php">Mantenimiento</a></li>
       </ul>
     </li>-->
-
-
-    <li class="submenu"> <a href="#"><i class="icon-shopping-cart"></i> <span>Ventas</span> <span class="label label-important"></span></a>
-      <ul>
-        <li><a href="ventas.php"><i class="icon-shopping-cart"></i>Nueva Venta</a></li>
-
-      </ul>
-    </li>
-
-  <li class="submenu"> <a href="#"><i class="icon-shopping-cart"></i> <span>Compras</span> <span class="label label-important"></span></a>
-      <ul>
-        <li><a href="compras.php"><i class="icon-shopping-cart"></i>Nueva Compra</a></li>
-         <li><a href="Ingresoproducto.php"><i class="icon-shopping-cart"></i>Ingresar Producto</a></li>
-      </ul>
-    </li>
-
-
 
 
         <!--    <li class="submenu"> <a href="#"><i class="icon-shopping-cart"></i> <span>Venta de Servicios</span> <span class="label label-important"></span></a>
@@ -117,40 +130,32 @@ if($now > $_SESSION['expire'])
       </ul>
     </li>-->
 
+
+    <!--Pestania Reportes Ventas Menu -->
     <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>Reportes de Ventas</span> <span class="label label-important"></span></a>
     <ul>
-
     <li class=""><a href="VentaG_dia.php"><i class="icon icon-credit-card"></i> <span>General Ventas del dia</span></a> </li>
     <li class=""><a href="VentaG_semanal.php"><i class="icon icon-credit-card"></i> <span>General Venta Semanal</span></a> </li>
     <li class=""><a href="VentaG_mensual.php"><i class="icon icon-credit-card"></i> <span>General Venta Mensual</span></a> </li>
-
     </ul>
     </li>
 
+    <!--Pestania Reportes Empleados Menu -->
     <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>Reportes de Empleados </span> <span class="label label-important"></span></a>
     <ul>
-
     <li class=""><a href="empleado.php"><i class="icon icon-credit-card"></i> <span>Empleados</span></a> </li>
     <li class=""><a href="VentaE_dia.php"><i class="icon icon-credit-card"></i> <span>Ventas del dia</span></a> </li>
     <li class=""><a href="VentaE_semanal.php"><i class="icon icon-credit-card"></i> <span>Venta Semanal</span></a> </li>
     <li class=""><a href="VentaE_mensual.php"><i class="icon icon-credit-card"></i> <span>Venta Mensual</span></a> </li>
-
-
     </ul>
     </li>
 
+    <!--Pestania Reportes Clientes Menu -->
     <li class="submenu"> <a href="#"><i class="icon icon-th-list"></i> <span>Reportes de Clientes</span> <span class="label label-important"></span></a>
     <ul>
-
-
-
-      <li><a href="clientes.php">Clientes</a></li>
-
+    <li><a href="clientes.php">Clientes</a></li>
     </ul>
     </li>
-
-     <li class="sumbmenu "><a href="movimientos.php"><i class="icon-folder-open"></i> <span>Kardex-Movimientos</span></a> </li>
-  <li class="sumbmenu "><a href="productos.php"><i class="icon-folder-open"></i> <span>Reporte Productos</span></a> </li>
 
 
 
