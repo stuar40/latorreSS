@@ -1,52 +1,53 @@
 Notas
 
-Descripcion
+*Descripcion*
 Sistema de Control de Ventas  Generico
 Producto y Ventas
 
-Pasos para Iniciar la programacion de SisVen
+*Pasos para Iniciar la programacion de SysVen*
 
-Elejir Herramientas
+*Herramientas*
 Atom: Editor
 BD: MySql Gestionado con Workbench
 Lenguaje: php 5
 Maquetador: html 5
 
 
-Notas Sistema
-Menu
+*Notas Sistema*
+
+*Menu*
 Productos
-Lista Producto con busqueda automatica
-Lista de Servicios
-Nuevo Producto / Servicios
-Mantenimiento Producto / Servicio
+  -Lista Producto con busqueda automatica + paginacion
+  -Lista de Servicios
+  -Nuevo Producto / Servicios
+  -Mantenimiento Producto / Servicio
 
 Clientes Menu
-Lista Clientes
-Nuevo Cliente
-Mantenimiento Clientes
+  -Lista Clientes
+  -Nuevo Cliente
+  -Mantenimiento Clientes
 
 Ventas
-Nueva Venta
-Facturas Ventas
+  -Nueva Venta
+  -Facturas Ventas
 
 
 Compras
-Nueva Compra
-Facturas Compras
+  -Nueva Compra
+  -Facturas Compras
 
-ususarios
-Lista ususarios
-Nuevo usuario
-Mantenimiento Usuario
+usuarios
+  -Lista usuarios
+  -Nuevo usuario
+  -Mantenimiento Usuario
 
 
 Reportes
-Reporte Ventas
-Reporte emppleados
-Reporte de Clientes
-Kardex  de Movimientos
+  -Reporte Ventas
+  -Reporte empleados
+  -Reporte de Clientes
+  -Kardex  de Movimientos
 
 
-Manejar Sesiones con ususarios
---redireccionar despues de guardar Proveedor
+Manejar Sesiones con usuarios
+  -redireccionar despues de guardar Proveedor
