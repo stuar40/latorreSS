@@ -167,12 +167,13 @@
       <form class="form-horizontal">
         <div class="form-group">
         <div class="col-sm-6">
-          <input type="text" class="form-control" id="q" placeholder="Buscar productos" onkeyup="load(1)">
+            <input type="text" class="form-control" id="q" placeholder="Buscar productos" onkeyup="load(1)">
         </div>
         <button type="button" class="btn btn-default" onclick="load(1)"><span class='glyphicon glyphicon-search'></span> Buscar</button>
         </div>
       </form>
-      <div id="loader" style="position: absolute;	text-align: center;	top: 55px;	width: 100%;display:none;"></div><!-- Carga gif animado -->
+      <div id="loader" style="position: absolute;	text-align: center;	top: 55px;	width: 100%;display:none;">
+      </div><!-- Carga gif animado -->
       <div class="outer_div" ></div><!-- Datos ajax Final -->
       </div>
       <div class="modal-footer">
@@ -194,7 +195,7 @@
   <?php
   include("footer.php");
   ?>
-   <script type="text/javascript" src="js/VentanaCentrada.js"></script>
+   <script type="text/javascript" src="js/VentanaCentrada.js"></script> <!-- llama al JS venta centada -->
   <script type="text/javascript" src="js/nueva_factura2.js"></script>
   <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
     <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>

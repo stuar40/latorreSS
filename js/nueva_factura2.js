@@ -15,8 +15,8 @@
 				success:function(data){
 					$(".outer_div").html(data).fadeIn('slow');
 					$('#loader').html('');
-					
-				} 
+
+				}
 			})
 		}
 
@@ -38,12 +38,12 @@
 			return false;
 			}
 			//Fin validacion
-			
+
 			$.ajax({
         type: "POST",
         url: "./ajax/agregar_facturacion.php",
         data: "id="+id+"&precio_venta="+precio_venta+"&cantidad="+cantidad,
-		 
+
 		 beforeSend: function(objeto){
 			$("#resultados").html("Mensaje: Cargando...");
 		  },
@@ -52,15 +52,15 @@
 		}
 			});
 		}
-		
+
 			function eliminar (id)
 		{
-			
+
 			$.ajax({
         type: "GET",
         url: "./ajax/agregar_facturacion.php",
         data: "id="+id,
-		 beforeSend: function(objeto){ 
+		 beforeSend: function(objeto){
 			$("#resultados").html("Mensaje: Cargando...");
 		  },
         success: function(datos){
@@ -72,11 +72,11 @@
 
 
 		//carga los datos a la factura pdf venta
-		$("#datos_factura").submit(function(){ 
+		$("#datos_factura").submit(function(){
 		 var id_cliente = $("#id_cliente").val();
 		  var id_vendedor = $("#id_vendedor").val();
 		  var condiciones = $("#condiciones").val();
-		  
+
 		  if (id_cliente==""){
 			  alert("Debes seleccionar un cliente");
 			  $("#nombre_cliente").focus();
@@ -86,11 +86,11 @@
 	 	});
 /*
 		//carga los datos a la factura pdf Compra
-		$("#datos_factura2").submit(function(){ 
+		$("#datos_factura2").submit(function(){
 		  var id_cliente = $("#id_proveedor").val();
 		  var id_vendedor = $("#id_vendedor").val();
 		  var condiciones = $("#condiciones").val();
-		  
+
 		  if (id_cliente==""){
 			  alert("Debes seleccionar un cliente");
 			  $("#nombre_cliente").focus();
@@ -116,10 +116,10 @@
 
 
 
-		
+
 		$( "#guardar_cliente" ).submit(function( event ) {
 		  $('#guardar_datos').attr("disabled", true);
-		  
+
 		 var parametros = $(this).serialize();
 			 $.ajax({
 					type: "POST",
@@ -136,10 +136,10 @@
 			});
 		  event.preventDefault();
 		})
-		
+
 		$( "#guardar_producto" ).submit(function( event ) {
 		  $('#guardar_datos').attr("disabled", true);
-		  
+
 		 var parametros = $(this).serialize();
 			 $.ajax({
 					type: "POST",
